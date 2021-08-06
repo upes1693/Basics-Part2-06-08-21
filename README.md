@@ -2,10 +2,10 @@
 
 What have we learned today?
 
--Overflow and underflow
--Shortcuts
--Operands
--Type casting
--Forammting String
--Conditional expressions
--if else
+- Overflow and underflow
+- Shortcuts
+- Operands
+- Type casting
+- Formating String
+- Conditional expressions
+- if else
